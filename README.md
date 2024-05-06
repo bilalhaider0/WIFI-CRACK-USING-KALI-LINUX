@@ -4,7 +4,7 @@
 This technique will search the password after taking WPS handshake. All commands should be run on kali linux terminal.
 The rockyou.txt file contains a large amount of passwords.
 
-#commands
+#COMMANDS:
 
 *open terminal and go to the directory*
 - /usr/share/wordlists/rockyou.txt.gz
